@@ -1,2 +1,2 @@
 # COE332
-A repo for my COE332 classwork
+A repository for all of my COE332 classwork
